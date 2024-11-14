@@ -1,0 +1,35 @@
+.App {
+  margin: 90px 100px 90px 160px;
+  border-radius: 25px;
+  background: rgb(63,199,90);
+  background: linear-gradient(90deg, rgba(63,199,90,1) 17%, rgba(64,204,195,1) 74%);
+}
+
+.weather-container {
+  width: 80%;
+  height: 600px;
+  border-radius: 10px;
+}
+
+.weather-content {
+  padding-top: 80px;
+}
+  
+.weather-date h1 {
+  margin-top: 10px;
+  font-size: 3rem;
+}
+  
+.weather-icon img {
+  width: 100px;
+  height: auto;
+}
+  
+.weather-temp h1 {
+  margin-top: 10px;
+  font-size: 3rem;
+}
+
+.searchBox {
+  margin-top: 40px;
+}
